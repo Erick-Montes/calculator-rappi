@@ -1,0 +1,6 @@
+com/pe/calculator/app/tasks/EnterAplication.class
+com/pe/calculator/app/tasks/Calculate.class
+com/pe/calculator/app/interactions/SelectOptions.class
+com/pe/calculator/app/questions/OperationQuestions.class
+com/pe/calculator/app/interactions/WaitElementClickable.class
+com/pe/calculator/app/userinterface/Calculator.class
